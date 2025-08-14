@@ -1,0 +1,13 @@
+{
+  "1": "B",
+  "2": "A",
+  "3": "B",
+  "4": {
+    "keywords": ["sunlight", "chlorophyll", "carbon dioxide", "oxygen", "glucose"],
+    "max": 5
+  },
+  "5": {
+    "rubric": "Define gravity as a force of attraction between masses and explain its effect on objects near the Earth's surface.",
+    "max": 5
+  }
+}
